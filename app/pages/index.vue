@@ -1,4 +1,8 @@
 <template>
+    <HeroIntro/>
 </template>
 
-<script setup></script>
+<script setup>
+import HeroIntro from '~/components/home/HeroIntro.vue';
+
+</script>
